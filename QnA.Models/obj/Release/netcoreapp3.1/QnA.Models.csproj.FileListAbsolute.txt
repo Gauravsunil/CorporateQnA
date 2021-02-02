@@ -1,0 +1,9 @@
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\bin\Release\netcoreapp3.1\QnA.Models.deps.json
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\bin\Release\netcoreapp3.1\QnA.Models.dll
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\bin\Release\netcoreapp3.1\QnA.Models.pdb
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\obj\Release\netcoreapp3.1\QnA.Models.csprojAssemblyReference.cache
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\obj\Release\netcoreapp3.1\QnA.Models.AssemblyInfoInputs.cache
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\obj\Release\netcoreapp3.1\QnA.Models.AssemblyInfo.cs
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\obj\Release\netcoreapp3.1\QnA.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\obj\Release\netcoreapp3.1\QnA.Models.dll
+C:\Users\Gaurav\Source\Repos\QnA\QnA.Models\obj\Release\netcoreapp3.1\QnA.Models.pdb
