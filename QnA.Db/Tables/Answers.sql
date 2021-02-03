@@ -1,0 +1,16 @@
+CREATE TABLE Answers(
+Id INT PRIMARY KEY IDENTITY(1,1),
+[Description] NVARCHAR(MAX),
+QuestionId INT FOREIGN KEY REFERENCES Questions(Id),
+Likes NVARCHAR(MAX),
+Dislikes NVARCHAR(MAX),
+UserId NVARCHAR(450) FOREIGN KEY REFERENCES AspNetUsers(Id),
+IsBestSolution BIT,
+CreatedOn DATETIME NULL);
+
+CREATE TRIGGER 
+AnswersInserts ON
+Answers FOR
+INSERT AS
+UPDATE Answers 
+SET CreatedOn=GETDATE();
